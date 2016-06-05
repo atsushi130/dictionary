@@ -1,0 +1,2 @@
+services=("github" "dribbble" "evernote" "onedrive" "outlook" "youtube")
+urls=("https://github.com" "https://dribbble.com" "https://evernote.com" "https://onedrive.live.com" "https://outlook.live.com" "https://www.youtube.com")
